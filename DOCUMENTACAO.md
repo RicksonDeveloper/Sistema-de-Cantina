@@ -2,12 +2,12 @@
 
 ## Cabeçalho Obrigatório
 
-- **Número do estudo de caso selecionado:** [Informe o número]
-- **Nome do estudo de caso:** [Informe o nome]
+- **Número do estudo de caso selecionado:** 3
+- **Nome do estudo de caso:** Sistema de cantina
 - **Link do projeto no GitHub:** https://github.com/RicksonDeveloper/Sistema-de-Cantina
-- **Integrante responsável (apenas um deve entregar):**
-  - Matrícula - Nome completo (líder do grupo)
-
+- **Integrante responsável (apenas um deve entregar):** Rickson Figueiredo Pessanha
+  - 25114290083- Rickson Figueiredo Pessanha(Líder do Grupo)
+sim
 > Observação: Apenas o integrante listado acima fará a entrega do projeto.
 
 ---
