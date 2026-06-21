@@ -4,7 +4,7 @@
 
 - **Número do estudo de caso selecionado:** [Informe o número]
 - **Nome do estudo de caso:** [Informe o nome]
-- **Link do projeto no GitHub:** https://github.com/usuario/repositorio
+- **Link do projeto no GitHub:** https://github.com/RicksonDeveloper/Sistema-de-Cantina
 - **Integrante responsável (apenas um deve entregar):**
   - Matrícula - Nome completo (líder do grupo)
 
